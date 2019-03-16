@@ -7,6 +7,7 @@
 
 I planned to dive into the “What's new …” documents of the Python3 releases for some time now.
 Anyway, this is a “show me the code” version of that effort, in the form of Jupyter notebooks.
+That means you can explore those features further, directly in the text.
 
 They touch any *interesting* topic. In the scope of this repository,
 I'm defining what counts as interesting. ☺
