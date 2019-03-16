@@ -1,4 +1,4 @@
-# Jupyter Notebooks by Example
+# What's new in Python3?
 
 > :notebook_with_decorative_cover: Jupyter notebooks illustrating “What's new in Python3?”
 
