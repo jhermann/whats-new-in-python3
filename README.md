@@ -13,7 +13,7 @@ I'm defining what counts as interesting. ☺
 
 And these are the notebooks:
 
-* **TODO** [Python 3.4](https://nbviewer.jupyter.org/github/jhermann/whats-new-in-python3/blob/master/python_3.4.ipynb)
+* **WIP** [Python 3.4](https://nbviewer.jupyter.org/github/jhermann/whats-new-in-python3/blob/master/python_3.4.ipynb)
 * **TODO** [Python 3.5](https://nbviewer.jupyter.org/github/jhermann/whats-new-in-python3/blob/master/python_3.5.ipynb)
 * **TODO** [Python 3.6](https://nbviewer.jupyter.org/github/jhermann/whats-new-in-python3/blob/master/python_3.6.ipynb)
 * **TODO** [Python 3.7](https://nbviewer.jupyter.org/github/jhermann/whats-new-in-python3/blob/master/python_3.7.ipynb)
